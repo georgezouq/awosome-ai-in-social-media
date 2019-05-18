@@ -21,6 +21,8 @@ The main goal is collect those AI Strategies & bot used in social media.
 
 ## Papers
 
+- [Early Rumour Detection](https://mp.weixin.qq.com/s/GYvt2SxwpoUoPJZ4LlHPnQ): 谣言止于智者：基于深度强化学习的谣言早期检测模型
+
 ## Strategies
 
 - [InstaPy](https://github.com/timgrossmann/InstaPy): Tool for automated Instagram interactions
