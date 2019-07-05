@@ -29,10 +29,17 @@ The main goal is collect those AI Strategies & bot used in social media.
 - [trump2cash](https://github.com/maxbbraun/trump2cash): A stock trading bot powered by Trump tweets https://trump2cash.biz
 - [Geotweet_GUI](https://github.com/Pinperepette/Geotweet_GUI): Social engineering tool for human hacking http://geotweet.altervista.org
 - [Sentiment-Analysis-Twitter](https://github.com/ayushoriginal/Sentiment-Analysis-Twitter): 🎓RESEARCH [NLP 💭] We use different feature sets and machine learning classifiers to determine the best combination for sentiment analysis of twitter.
-- [wxpy](https://github.com/youfou/wxpy): wechat robot 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ http://wxpy.readthedocs.io
 - [Douyin-Bot](https://github.com/wangshub/Douyin-Bot): Douyin(TikTok) robot - Find pretty girl in douyin
 - [who_is_following](https://github.com/wangshub/who_is_following): 👀 who is following 谁在看着你呢，大兄弟
 
+## Bot
+
+### Wechat
+
+- [wechaty](https://github.com/Chatie/wechaty): WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖 https://blog.chatie.io
+- [ItChat](https://github.com/littlecodersh/ItChat): A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。 http://itchat.readthedocs.io
+- [wechatBot](https://github.com/gengchen528/wechatBot): 微信每日说，三步教你用Node做一个微信哄女友(基友)神器，小白可上手
+- [wxpy](https://github.com/youfou/wxpy): wechat robot 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ http://wxpy.readthedocs.io
 
 ## Crawler
 
