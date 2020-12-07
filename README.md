@@ -43,6 +43,10 @@ The main goal is collect those AI Strategies & bot used in social media.
 
 ## Crawler
 
+### Weibo
+
+- [weibo-trending-hot-search](https://github.com/justjavac/weibo-trending-hot-search): 微博热搜榜，记录从 2020-11-24 日开始的微博热门搜索。每小时抓取一次数据，按天归档.
+
 ### INS
 
 - [instagram-profilecrawl](https://github.com/timgrossmann/instagram-profilecrawl): 📝 quickly crawl the information (e.g. followers, tags etc...) of an instagram profile.
