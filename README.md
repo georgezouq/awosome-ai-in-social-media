@@ -60,6 +60,10 @@ The main goal is collect those AI Strategies & bot used in social media.
 
 - [douyin_spider](https://github.com/zhangyucha0/douyin_spider): 抖音（douyin/aweme）API级别的爬虫脚手架(Douyin crawler from api)
 
+### Reddit
+
+- [RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): Create Reddit Videos with just✨ one command ✨
+
 ### ELE
 
 - [scrapy_waimai](https://github.com/jinzhen-lin/scrapy_waimai): 基于Scrapy的外卖平台商家信息爬虫
