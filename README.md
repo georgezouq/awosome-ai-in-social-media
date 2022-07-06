@@ -41,8 +41,6 @@ The main goal is collect those AI Strategies & bot used in social media.
 - [wechatBot](https://github.com/gengchen528/wechatBot): 微信每日说，三步教你用Node做一个微信哄女友(基友)神器，小白可上手
 - [wxpy](https://github.com/youfou/wxpy): wechat robot 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ http://wxpy.readthedocs.io
 
-## Crawler
-
 ### Weibo
 
 - [weibo-trending-hot-search](https://github.com/justjavac/weibo-trending-hot-search): 微博热搜榜，记录从 2020-11-24 日开始的微博热门搜索。每小时抓取一次数据，按天归档.
@@ -68,6 +66,10 @@ The main goal is collect those AI Strategies & bot used in social media.
 
 - [scrapy_waimai](https://github.com/jinzhen-lin/scrapy_waimai): 基于Scrapy的外卖平台商家信息爬虫
 
+
+### Twitter
+
+- [web3q](http://web3q.net/) - 每天检索 4000+ 位 Web3 信源的 Twitter 内容，通过 AI 筛选出值得读的内容
 
 ## Tools
 
